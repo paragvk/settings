@@ -1,2 +1,2 @@
-# settings
-General preferences
+# Settings
+My preferences
