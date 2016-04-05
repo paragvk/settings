@@ -1,0 +1,2 @@
+# settings
+General preferences
